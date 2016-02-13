@@ -16,6 +16,7 @@ Git remote deis added
 
 ### 通过`git push`部署应用
 
+```
 $ git push deis master
 Counting objects: 17, done.
 Delta compression using up to 8 threads.

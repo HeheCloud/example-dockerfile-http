@@ -51,7 +51,7 @@ Step 3 : RUN ln -sf /dev/stderr /var/log/nginx/error.log
  ---> Running in 827ea0fbdaca
  ---> 0072af10d448
 Removing intermediate container 827ea0fbdaca
-Step 4 : ENV POWERED_BY Deis
+Step 4 : ENV POWERED_BY Hehecloud
  ---> Running in 5e02d3a7623a
  ---> d5dc43a1857c
 Removing intermediate container 5e02d3a7623a
